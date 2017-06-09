@@ -1,0 +1,1 @@
+# gradle-junit5-sample
